@@ -1,0 +1,47 @@
+Nexthink Data Manager - licence and terms of use
+Copyright (c) 2026 Mostafa Fawzy. All rights reserved.
+
+Please read this before you install or use the software. By installing or using it you agree to these terms.
+
+1. NOT AFFILIATED WITH NEXTHINK
+   Nexthink Data Manager is independent software written by Mostafa Fawzy ("the author"). It is not made, sponsored,
+   endorsed, certified or supported by Nexthink SA or any of its affiliates. "Nexthink" and the names of other products
+   and companies are trademarks of their respective owners. They are used here only to say which systems this software
+   works with, and no connection with their owners is claimed or implied.
+
+2. LICENCE
+   The author grants you a free, non-exclusive, non-transferable licence to install and use this software on your own
+   computers and servers, for yourself or within your organisation. You may not sell, rent, lease or sublicense it,
+   remove or change the notices in it, or present it as your own or as anyone else's product. You may not reverse
+   engineer it, except where the law allows that despite this term. All rights not granted here are reserved.
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU USE IT AT YOUR OWN RISK. The software
+   can change data in the systems you connect it to (for example through their APIs) and can run actions on devices
+   and send messages to users. Test it on non-production data first and keep backups.
+
+4. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR
+   CONSEQUENTIAL DAMAGES, OR FOR LOSS OF DATA, PROFIT OR BUSINESS, ARISING FROM THE USE OF OR THE INABILITY TO USE THE
+   SOFTWARE, EVEN IF HE HAS BEEN TOLD THAT THEY ARE POSSIBLE. Nothing in these terms limits liability that cannot be
+   limited by law.
+
+5. YOUR DATA AND CREDENTIALS
+   The software keeps what you enter (connections, credentials, exports and settings) only on the computer or server
+   where you install it. The author does not receive it. You are responsible for securing that computer, and for
+   following the agreements and laws that apply to the systems and data you connect, including your agreements with
+   the vendors of those systems.
+
+6. THIRD-PARTY SOFTWARE
+   The software includes third-party components under their own licences. See THIRD-PARTY-NOTICES.md.
+
+7. SELF-SIGNED CERTIFICATE
+   The Windows setup is signed with a self-signed certificate. Windows shows the publisher as unknown unless you choose
+   to trust that certificate on your own computers.
+
+8. TERMINATION
+   This licence ends automatically if you do not follow these terms. Then you must stop using the software and delete
+   your copies.
+
+Contact: mostafawzy@hotmail.com
